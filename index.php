@@ -104,17 +104,17 @@ include "conexao.php";
             <input type="text" placeholder="Buscar...">
             <input type="submit" value="Buscar">
         </form>
-        <table class="table table-striped">
+        <table class="table table-striped"> 
             <thead>
                 <tr>
-                <th scope="col">#</th>
+                <th scope="col">#</th> 
                 <th scope="col">Nome</th>
                 <th scope="col">Descrição</th>
                 <th scope="col">Prazo</th>
-                <th scope="col">Status</th>
+                <th scope="col">Status</th> 
                 <th>Ações</th>
                 </tr>
-            </thead>
+            </thead>  
             <tbody>
 
                 <?php 
