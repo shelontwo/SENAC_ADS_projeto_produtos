@@ -108,7 +108,7 @@ include "conexao.php";
             <thead>
                 <tr>
                 <th scope="col">#</th> 
-                <th scope="col">Nome</th>
+                <th scope="col">Nome - Evandro</th>
                 <th scope="col">Descrição</th>
                 <th scope="col">Prazo</th>
                 <th scope="col">Status</th> 
